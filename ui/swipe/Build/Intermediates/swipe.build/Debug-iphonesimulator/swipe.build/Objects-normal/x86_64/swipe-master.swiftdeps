@@ -1,0 +1,10 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "2454de352d06fbcb8cb751159d21c345"
+build_time: [527854156, 812337000]
+inputs:
+  "/Users/ishikurak73/Desktop/swipe/swipe/SecondViewController.swift": [527843983, 0]
+  "/Users/ishikurak73/Desktop/swipe/swipe/ThirdViewController.swift": [527844093, 0]
+  "/Users/ishikurak73/Desktop/swipe/swipe/FirstViewController.swift": [527843983, 0]
+  "/Users/ishikurak73/Desktop/swipe/swipe/PageViewController.swift": [527854156, 0]
+  "/Users/ishikurak73/Desktop/swipe/swipe/ViewController.swift": [527838969, 0]
+  "/Users/ishikurak73/Desktop/swipe/swipe/AppDelegate.swift": [527838968, 0]

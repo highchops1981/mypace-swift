@@ -10,7 +10,7 @@ To take a picture with silent.<br>
 To upload the picture to FireStorage.<br>
 In the case of  Offline,to upload the picture to FireStorage after Online.<br>
 ### Usage
-fire Camera.sharedCamera.shot() in your source
+fire Camera.sharedCamera.shot() in your source<br>
 <a href="https://github.com/highchops1981/mypace-swift/tree/master/parts/silent%20camera%2Bfirestorage%2Boffline/silentcamera%2Bfirestorage%2Boffline">source</a><br>
 
 

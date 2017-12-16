@@ -3,7 +3,7 @@
 <a href="https://github.com/highchops1981/mypace-swift/tree/master/ui/shadowView">source</a><br>
 <img src="https://github.com/highchops1981/mypace-res/blob/master/shadowview.gif" alt="" title="" width=120>
 # parts
-## blueTooth Low Enegy
+## Bluetooth Low Enegy
 <a href="https://github.com/highchops1981/mypace-swift/tree/master/parts/ble">source</a><br>
 ## silent camera + firestorage + offline
 To take a picture with silent.<br>

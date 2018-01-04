@@ -47,6 +47,25 @@ class DateUtil {
         
     }
     
+    static func todayyyyymmdd() -> String {
+        
+        let formatter = DateFormatter()
+        formatter.dateFormat = "yyyyMMdd"
+        
+        return formatter.string(from: Date())
+        
+    }
+    
+    static func todayyyyyMMddHHmmss() -> String {
+        
+        let formatter = DateFormatter()
+        formatter.dateFormat = "yyyy-MM-dd' 'HH:mm:ss"
+        
+        return formatter.string(from: Date())
+        
+    }
+    
+    
 }
 
 extension DateUtil {

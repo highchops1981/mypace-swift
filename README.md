@@ -12,5 +12,5 @@ In the case of  Offline,to upload the picture to FireStorage after Online.<br>
 ### Usage
 fire Camera.sharedCamera.shot() in your source<br>
 <a href="https://github.com/highchops1981/mypace-swift/tree/master/parts/silent%20camera%2Bfirestorage%2Boffline/silentcamera%2Bfirestorage%2Boffline">source</a><br>
-
-
+## Useful date manipulation functions
+<a href="https://github.com/highchops1981/mypace-swift/blob/master/parts/DateUtil.swift">source</a><br>

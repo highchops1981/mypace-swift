@@ -1,11 +1,3 @@
-//
-//  DateUtil.swift
-//  PRT_iOS_for_ticket
-//
-//  Created by keisuke ishikura on 2017/12/20.
-//  Copyright © 2017年 keisuke ishikura. All rights reserved.
-//
-
 import Foundation
 
 class DateUtil {

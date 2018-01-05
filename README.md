@@ -14,3 +14,5 @@ fire Camera.sharedCamera.shot() in your source<br>
 <a href="https://github.com/highchops1981/mypace-swift/tree/master/parts/silent%20camera%2Bfirestorage%2Boffline/silentcamera%2Bfirestorage%2Boffline">source</a><br>
 ## Useful date manipulation functions
 <a href="https://github.com/highchops1981/mypace-swift/blob/master/parts/DateUtil.swift">source</a><br>
+## view extension
+<a href="https://github.com/highchops1981/mypace-swift/blob/master/parts/UIView_Extension.swift">source</a><br>
